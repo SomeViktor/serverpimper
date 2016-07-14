@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/media/win/Users/Viktor/Documents/projects/MedCheck/MedCheck'
+let g:netrw_dirhist_2='/media/win/Users/Viktor/Documents/projects/MedCheck/MedCheck/public'
+let g:netrw_dirhist_3='/media/win/Users/Viktor/Documents/projects/MedCheck/MedCheck/public/js'
+let g:netrw_dirhist_4='/home/viktor/Downloads/roxterm-3.1.5/Help'
+let g:netrw_dirhist_5='/etc/privoxy'
+let g:netrw_dirhist_6='/etc/init.d'
+let g:netrw_dirhist_7='/etc/init'
